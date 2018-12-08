@@ -1,3 +1,3 @@
-# FinalProject
-This is the best project ever
-
+# FinalProject 
+This project will act as a practice log for someone playing bass guitar. 
+The user will practice scales. They will tell the program which scale they wish to  practice in a given practice session, and the program will tell them the notes of the scale and show them the fingering. The program will then walk them through the fingering step by step, and the user will be able to hit a button labeled "practice" which will begin a visual tutorial on how to play the scale (the tutorial will use standard tablature notation and will display the notes one at a time. Each time the user completes one practice run, the tutorial will repeat at an increased speed. When the user completes the exercise, the program will keep track of which ones the user has completed and display these as well as the ones left to complete.)
